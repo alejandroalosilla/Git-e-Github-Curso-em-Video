@@ -209,7 +209,7 @@ Mensagens bem escritas merecem um like :+1:
 ---
 Criar tabelas em markdown é extremamente simples. Basta usar as barras em pé(pipes) | e as barras deitadas(traços) - de forma organizada.
 
-Ex:
+Ex:<br>
 Ano \| Curso \| Professor \| Aulas<br>
 \:---: \| ---: \| :--- \| :---:<br>
 2013 \| HTML+CSS+JS | Gustavo Guanabara | 36<br>
