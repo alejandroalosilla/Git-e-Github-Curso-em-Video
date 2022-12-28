@@ -47,21 +47,15 @@ Pra criar uma **lista numerada**, comece a linha com um **número qualquer**, se
 
 Ex:<br>
 1\. Brasil<br>
-    5. Alemanha<br>
-    7. França<br>
-    9. Cuba<br>
 0\. Bélgica<br>
 9\. Argentina<br>
-1\. Peru
+3\. Peru
 
 Resultado:
 1. Brasil
-    5. Alemanha
-    7. França
-    9. Cuba
 0. Bélgica
 9. Argentina
-1. Peru
+3. Peru
 
 ## Listas com marcadores
 Basta usar um asterisco seguido de um espaço ou um traço seguido de espaço no início de uma linha para que ele seja parte de uma lista demarcada.
@@ -69,13 +63,13 @@ Basta usar um asterisco seguido de um espaço ou um traço seguido de espaço no
 Ex:<br>
 \* Opção 1<br>
 \* Opção 2<br>
-    \* Opção 3<br>
+\* Opção 3<br>
 \* Opção 4
 
 Resultado:
 * Opção 1
 * Opção 2
-    * Opção 3
+* Opção 3
 * Opção 4
 
 ## Lista de tarefas
