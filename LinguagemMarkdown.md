@@ -75,7 +75,7 @@ Resultado:
 ## Lista de tarefas
 Colocando um sinal \- \[ ] ou \- \[x] antes de cada item, criamos listas de tarefa com itens marcados ou desmarcados.
 
-Ex:
+Ex:<br>
 \- \[ ] pão<br>
 \- \[x] leite<br>
 \- \[ ] manteiga
