@@ -67,9 +67,9 @@ Resultado:
 Basta usar um asterisco seguido de um espaço ou um traço seguido de espaço no início de uma linha para que ele seja parte de uma lista demarcada.
 
 Ex:
-\* Opção 1
-\* Opção 2
-    \* Opção 3
+\* Opção 1<br>
+\* Opção 2<br>
+    \* Opção 3<br>
 \* Opção 4
 
 Resultado:
