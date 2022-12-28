@@ -186,6 +186,11 @@ Analisando a Issue #3, vamos rever o que foi indicado pelo usuário.
 Até o momento, vimos que temos vários símbolos que servem para criar formatações. Mas e se por acaso quisermos mostrar exatamente o símbolo sem seu efeito de formatação? A resposta é simples: usamos barra invertida \ antes do símbolo para eliminar o efeito de formatação.
 
 Ex:<br>
+Podemos criar títulos usando \\## antes do texto<br>
+Podemos criar citações usando \\> antes do conteúdo<br>
+Podemos adicionar imagens usando \\!\\[descrição]\\(endereço)
+
+Resultado:
 Podemos criar títulos usando \## antes do texto<br>
 Podemos criar citações usando \> antes do conteúdo<br>
 Podemos adicionar imagens usando \!\[descrição]\(endereço)
