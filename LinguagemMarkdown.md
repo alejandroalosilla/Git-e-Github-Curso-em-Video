@@ -190,7 +190,7 @@ Podemos criar títulos usando \\## antes do texto<br>
 Podemos criar citações usando \\> antes do conteúdo<br>
 Podemos adicionar imagens usando \\!\\[descrição]\\(endereço)
 
-Resultado:
+Resultado:<br>
 Podemos criar títulos usando \## antes do texto<br>
 Podemos criar citações usando \> antes do conteúdo<br>
 Podemos adicionar imagens usando \!\[descrição]\(endereço)
