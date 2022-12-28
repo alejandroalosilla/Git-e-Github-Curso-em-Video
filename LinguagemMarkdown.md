@@ -185,18 +185,18 @@ Analisando a Issue #3, vamos rever o que foi indicado pelo usuário.
 ## Escapando símbolos
 Até o momento, vimos que temos vários símbolos que servem para criar formatações. Mas e se por acaso quisermos mostrar exatamente o símbolo sem seu efeito de formatação? A resposta é simples: usamos barra invertida \ antes do símbolo para eliminar o efeito de formatação.
 
-Ex:
-Podemos criar títulos usando \## antes do texto
-Podemos criar citações usando \> antes do conteúdo
+Ex:<br>
+Podemos criar títulos usando \## antes do texto<br>
+Podemos criar citações usando \> antes do conteúdo<br>
 Podemos adicionar imagens usando \!\[descrição]\(endereço)
 
 ## Emojis
 Existem códigos especiais para emojis em markdown, que devem ser representados entre símbolos ::
 
-Ex:
-Boas iniciativas merecem aplausos \:clap:
-Fatos importantes merecem atenção \:eyes:
-Momentos difíceis requerem força \:muscle:
+Ex:<br>
+Boas iniciativas merecem aplausos \:clap:<br>
+Fatos importantes merecem atenção \:eyes:<br>
+Momentos difíceis requerem força \:muscle:<br>
 Mensagens bem escritas merecem um like \:+1:
 
 Resultado:
