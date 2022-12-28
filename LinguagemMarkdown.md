@@ -45,13 +45,13 @@ __*CursoemVideo*__
 ## Listas numeradas
 Pra criar uma **lista numerada**, comece a linha com um **número qualquer**, seguido de um **ponto**. O primeiro número da lista vai indicar onde ela começa os itens seguintes, se estiverem em linhas consecuticvas, vão continuar a sequência.
 
-Ex:
-1\. Brasil
-    5. Alemanha
-    7. França
-    9. Cuba
-0\. Bélgica
-9\. Argentina
+Ex:<br>
+1\. Brasil<br>
+    5. Alemanha<br>
+    7. França<br>
+    9. Cuba<br>
+0\. Bélgica<br>
+9\. Argentina<br>
 1\. Peru
 
 Resultado:
