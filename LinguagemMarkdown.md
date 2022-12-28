@@ -194,10 +194,10 @@ Podemos adicionar imagens usando \!\[descrição]\(endereço)
 Existem códigos especiais para emojis em markdown, que devem ser representados entre símbolos ::
 
 Ex:<br>
-Boas iniciativas merecem aplausos \:clap\:<br>
-Fatos importantes merecem atenção \:eyes\:<br>
-Momentos difíceis requerem força \:muscle\:<br>
-Mensagens bem escritas merecem um like \:+1\:
+Boas iniciativas merecem aplausos \\:clap:<br>
+Fatos importantes merecem atenção \\:eyes:<br>
+Momentos difíceis requerem força \\:muscle:<br>
+Mensagens bem escritas merecem um like \\:+1:
 
 Resultado:<br>
 Boas iniciativas merecem aplausos :clap:<br>
