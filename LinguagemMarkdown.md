@@ -154,15 +154,15 @@ Quando criamos conteúdos em markdown para o GitHub, podemos relacionar conteúd
 ## Citação
 Ao responder alguém, podemos realizar citações a outras mensagens completas ou a trechos dela, usando sinais de > no início da linha.
 
-Ex:
+Ex:<br>
 Como **Steve Jobs** disse uma vez:
-\> Decidir o que não fazer é tão
-\> importante quanto decidir
-\> o que fazer
+\> Decidir o que não fazer é tão<br>
+\> importante quanto decidir<br>
+\> o que fazer<br>
 
 Resultado:
-> Decidir o que não fazer é tão
-> importante quanto decidir
+> Decidir o que não fazer é tão<br>
+> importante quanto decidir<br>
 > o que fazer
 
 Bela frase!
